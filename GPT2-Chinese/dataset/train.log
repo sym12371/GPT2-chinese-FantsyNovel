@@ -1,0 +1,2 @@
+nohup: ignoring input
+python: can't open file '/home/shenym/gpt2/GPT2-Chinese/dataset/train_single.py': [Errno 2] No such file or directory
