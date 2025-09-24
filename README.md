@@ -2,7 +2,7 @@
 A GPT2-Chinese Model trained with some fantasy novel
 1.Description:
 ---
-训练一个中文GPT2模型，使用BERT的Tokenizer.中文语料采用常见玄幻小说的部分章节。训练15个周期，batchsize=4。最终可以续写10句以上的玄幻苍穹小说。
+训练一个中文GPT2模型，使用BERT的Tokenizer.中文语料采用常见玄幻小说的部分章节。训练15个周期，batchsize=4。最终可以续写10句以上的玄幻小说。
 
 2.Start:
 ----
